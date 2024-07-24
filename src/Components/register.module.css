@@ -1,0 +1,46 @@
+body{
+    background-color: gray;
+}
+
+.form{
+    background-color: black;
+    color: white;
+    width: 35%;
+    margin-left: 35%;
+    text-align: center;
+    padding: 1%;
+    margin-top: 3%;
+    border-radius: 8px;
+    box-shadow: 1px 1px 5px 5px whitesmoke;
+}
+
+.form input{
+    width: 80%;
+    opacity: 0.3;
+    border: none;
+    outline: 0;
+    border-radius: 10px;
+    padding: 8px;
+    height: 40px;
+    margin: 3%;
+}
+
+.form button{
+    width: 40%;
+    margin: 3%;
+    height: 50px;
+    border-radius: 30px;
+    cursor: pointer;
+    background-color: black;
+    color:  white;
+    border: none;
+}
+
+.form button:hover{
+    background-color: white;
+    color: black;
+}
+
+.link{
+    color: white;
+}
